@@ -1,4 +1,4 @@
-# Data-Analytics-Assignement (Reoprt on World Happiness Data)
+# Data-Analytics-Assignement (Report on World Happiness Data)
 
 
 ## 1. Introduction
